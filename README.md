@@ -1,6 +1,6 @@
 # Airline-Data
 # 💫 About Me:
-💫 About Me<br>👩‍💻 I'm currently working on Power BI projects that transform raw data into actionable insights through interactive dashboards and visualizations.<br>🤝 I'm looking to collaborate on Power BI dashboard challenges and real-world business intelligence projects.<br>🙋‍♀️ I'm looking for help with DAX optimization and advanced data modeling techniques for complex datasets.<br>📚 I'm currently learning Advanced Power BI features like calculated columns, measures, and time intelligence functions.
+💫 About Me<br>👩‍💻 I'm currently working on Power BI projects that transform raw data into actionable insights through interactive dashboards and visualizations.<br>🤝 I'm looking to collaborate on Power BI dashboard challenges and real-world business intelligence projects.<br>🙋‍♀️ I'm looking for help with DAX optimization and advanced data modeling techniques for complex datasets.<br>📚 I'm currently learning Power BI features like calculated columns and measures.
 
 
 ## 🌐 Socials:
